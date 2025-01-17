@@ -6,7 +6,7 @@ Simulates a blockchain transaction by generating random data, hashing it, and sh
 2. Run the script:
 
     ```bash
-    python emulator.py
+    python transaction-emylator.py
     ```
 
 ## Example Output
